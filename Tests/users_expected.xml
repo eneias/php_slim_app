@@ -1,0 +1,5 @@
+<?xml version="1.0" ?>
+<dataset>
+    <users id="1" name="test" email="test@localhost.com" password="098f6bcd4621d373cade4e832627b4f6" />
+    <users id="2" name="batata" email="batata@localhost.com" password="9eb71ab7420eb452a22787ca4fab501b" />
+</dataset>
