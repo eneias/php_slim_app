@@ -43,14 +43,14 @@ Foi usado o paradigma MVC:
 └── Tests      --> Testes unitarios
 ```
 
-h3. Para instalar as dependencias da aplicação:
+### Para instalar as dependencias da aplicação:
 
 1. Execute ` $ php composer.phar install `
 2. Crie o database `utech` conforme `resources/schema.sql`
 3. Configure o banco de dados em `config_dev.php` ou `config_prod.php`
 
 
-h3. Para rodar os testes:
+### Para rodar os testes:
 
 1. Execute ` $ php composer.phar install `
 2. Crie o database `utech_test` conforme `resources/schema.sql`
